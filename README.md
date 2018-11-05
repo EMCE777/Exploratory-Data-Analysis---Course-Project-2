@@ -5,13 +5,17 @@ Fine particulate matter (PM2.5) is an ambient air pollutant for which there is s
 
 For each year and for each type of PM source, the NEI records how many tons of PM2.5 were emitted from that source over the course of the entire year. The data that you will use for this assignment are for 1999, 2002, 2005, and 2008.
 
-Review criteria
+## Review criteria
 For each question
 
-Does the plot appear to address the question being asked?
-Is the submitted R code appropriate for construction of the submitted plot?
-Datamenos 
+1. Does the plot appear to address the question being asked?
+2. Is the submitted R code appropriate for construction of the submitted plot?
+
+## Data 
+
 The data for this assignment are available from the course web site as a single zip file:
+
+https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip
 
 Data for Peer Assessment [29Mb]
 The zip file contains two files:
@@ -45,7 +49,8 @@ Across the United States, how have emissions from coal combustion-related source
 How have emissions from motor vehicle sources changed from 1999–2008 in Baltimore City?
 
 Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (fips=="06037"). Which city has seen greater changes over time in motor vehicle emissions?
-Making and Submitting Plotsmenos 
+
+## Making and Submitting Plotsmenos 
 For each plot you should
 
 Construct the plot and save it to a PNG file.
